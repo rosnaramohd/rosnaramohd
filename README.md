@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rosnaramohd
 - 👀 I’m interested in digital forensics and pentesting. 
-- 🌱 I’m currently still an undergrad,studying BICT @ SUSS.
+- 🌱 I’m currently an undergrad,pursuing my degree in Bachelor of Science in Information and Communication Technology. 
 - 💞️ I’m looking forward to publish my own revision notes that might be useful to any students. 
 - 📫 I am reachable at rosynara2001@gmailcom
 - 😄 Pronouns: sher/her
