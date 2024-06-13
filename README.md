@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital forensics and pentesting. 
 - 🌱 I’m currently an undergrad,pursuing my degree in Bachelor of Science in Information and Communication Technology. 
 - 💞️ I’m looking forward to publish my own revision notes that might be useful to any students. 
-- 📫 I am reachable at rosynara2001@gmailcom
+- 📫 I am reachable at rosynara2001@gmail.com
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: corporate girlie by day and a student by night
 
